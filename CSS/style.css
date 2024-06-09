@@ -183,7 +183,7 @@ nav{
     padding-left: 20px;
 }
 .featured-text-card span{
-    background: var(--third-color);
+    background: transparent;
     color: var(--color-white);
     padding: 3px 8px;
     font-size: 12px;
@@ -197,7 +197,6 @@ nav{
 }
 .typedText{
     text-transform: capitalize;
-    color: var(--text-color-third);
     background-image: linear-gradient(43deg, #4158D0 0%,#C850C0 46%, #FFCC70 100%);
     -webkit-background-clip: text;
     color: transparent;
